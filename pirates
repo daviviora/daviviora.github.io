@@ -1,5 +1,3 @@
-<div class="interacty_padding" style="position: relative; padding: 99.5% 0 0 0;">
-        <div class="interacty_wrapper" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; justify-content: center;">
-            <iframe style="border: none; width: 100%; height: 100%;" src="https://p.interacty.me/cb853e5836f15831/iframe.html"></iframe>
-        </div>
+<div class="remix-app" hash="cb853e5836f15831">
+        <script src="https://p.interacty.me/l.js" async></script>
     </div>
